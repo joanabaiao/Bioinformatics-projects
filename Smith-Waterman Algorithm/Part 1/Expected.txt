@@ -1,0 +1,24 @@
+DNA - Expected Exons and Introns:
+
+Exon: 1-91
+Intron: 92-222
+Exon: 223-940
+Intron: 941-1070
+Exon: 1071-1118
+Intron: 1119-1218
+Exon: 1219-2260
+Intron: 2261-2408
+Exon: 2409-3399
+
+Source: https://www.ncbi.nlm.nih.gov/nuccore/AJ238956.1?report=genbank
+
+
+DNA - Obtained Exons and Introns:
+
+Intron: 0-220
+Exon: 221-986
+Intron: 987-1216
+Exon: 1217-2260
+Intron: 2261-2407
+Exon: 2408-3399
+
