@@ -1,6 +1,6 @@
 # Bioinformatics Projects
 
-This repository contains the source code for various bioinformatics and algorithmic projects. Each project focuses on a specific aspect of gene expression analysis, protein secondary structure prediction, sequence alignment, and graph algorithms.
+This repository contains the code of various bioinformatics and algorithmic projects. Each project focuses on a specific aspect of gene expression analysis, protein secondary structure prediction, sequence alignment, and graph algorithms.
 
 ## Project List
 - Clustering Coefficient Calculation
